@@ -1,5 +1,8 @@
 # SoftGL
 
+![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
+![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
+
   **SoftGL is my first project in C++ using the OpenGL library**
   
  Over time, I will share with you my projects with OpenGL and C++. I hope you enjoyed this project and can inspire my studies to create yours too!

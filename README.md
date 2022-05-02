@@ -2,7 +2,7 @@
 
   **SoftGL is my first project in C++ using the OpenGL library**
   
- over time, I will share with you my projects with OpenGL and C++. I hope you enjoyed this project and can inspire my studies to create yours too!
+ Over time, I will share with you my projects with OpenGL and C++. I hope you enjoyed this project and can inspire my studies to create yours too!
 
 References links:
 <br>
